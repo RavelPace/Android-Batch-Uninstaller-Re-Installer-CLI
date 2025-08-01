@@ -51,19 +51,6 @@ A Python CLI tool to batch uninstall or reinstall system (or user) apps on Andro
 
 ---
 
-### 2. Project Structure
-
-```
-android-batch-cli/
-├── main.py
-├── packages.txt
-└── README.md
-```
-
-Create `packages.txt` with a list of app package names, one per line.
-
----
-
 ## ▶️ Usage
 
 1. **Prepare `packages.txt`:**
