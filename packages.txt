@@ -91,3 +91,4 @@ com.google.android.healthconnect.controller
 com.google.mainline.adservices
 com.transsion.nephilim
 com.android.cameraextensions
+com.google.android.apps.wellbeing
