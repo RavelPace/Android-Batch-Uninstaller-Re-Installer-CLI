@@ -80,3 +80,14 @@ com.transsion.videocallenhancer
 com.transsion.zahooc
 com.transsnet.store
 com.reallytek.wg
+com.android.dreams.basic
+com.google.android.partnersetup
+com.google.android.apps.wellbeing
+com.google.android.partnersetup
+com.google.android.adservices.api
+com.mediatek.engineermode
+com.google.android.gms.supervision
+com.google.android.healthconnect.controller
+com.google.mainline.adservices
+com.transsion.nephilim
+com.android.cameraextensions
