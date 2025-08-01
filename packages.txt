@@ -1,3 +1,5 @@
+#All packages listed below have been screened using the Android Debloat List (available at muntashirakon.github.io/android‑debloat‑list), and are confirmed at least safe for the TECNO KJ7 device.
+
 android.autoinstalls.config.transsion.device
 com.android.calllogbackup
 com.android.egg
