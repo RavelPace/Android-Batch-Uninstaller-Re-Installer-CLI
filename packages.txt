@@ -1,4 +1,4 @@
-#All packages listed below have been screened using the Android Debloat List (available at muntashirakon.github.io/android‑debloat‑list), and are confirmed at least safe for the TECNO KJ7 device.
+#All packages listed below have been screened using the Android Debloat List (available at muntashirakon.github.io/android‑debloat‑list), and are confirmed at least safe for the TECNO KJ7 and Infinix device.
 
 android.autoinstalls.config.transsion.device
 com.android.calllogbackup
@@ -54,6 +54,7 @@ com.transsion.kolun.aiservice
 com.transsion.kolun.assistant
 com.transsion.livewallpaper.page
 com.transsion.magazineservice.hios
+com.funbase.xradio
 com.transsion.magicfont
 com.transsion.manualguide
 com.transsion.mol
@@ -91,3 +92,43 @@ com.google.android.healthconnect.controller
 com.google.mainline.adservices
 com.transsion.nephilim
 com.android.cameraextensions
+com.android.microdroid.empty_payload
+com.mediatek.schpwronoff
+com.clover.secscanner
+com.example
+com.fpsensor_sample.fpSensorExtensionSvc2
+com.infinix
+com.jupiter.tornado
+com.kikaoem.qisiemoji.inputmethod.cy.se
+com.mediatek.atmwifimeta
+com.mediatek.callrecorder
+com.mediatek.emcamera
+com.mediatek.gnssdebugreport
+com.mediatek.lbs.em2.ui
+com.mediatek.mtklogger
+com.mediatek.security
+com.mediatek.thermalmanager
+com.mediatek.wfo.impl
+com.rlk.mi
+com.superscreenshot
+com.swfp.factory
+com.transsion.aftersalecalibrationtool
+com.transsion.aibox
+com.transsion.batterylab
+com.transsion.calculator
+com.transsion.compass
+com.transsion.datatransfer
+com.transsion.ivoice
+com.transsion.keyguardgesture
+com.transsion.magazineservice
+com.transsion.os.typeface
+com.transsion.overlaysuw
+com.transsion.phoenix
+com.transsion.policycenter
+com.transsion.powercenter
+com.transsion.weathers
+com.transsion.wifiplaytogether
+com.trassion.infinix.xclub
+com.westalgo.factorycamera
+com.zaz.translate
+net.bat.store
